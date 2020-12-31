@@ -1,8 +1,8 @@
 # session-service-client
 Go client for interacting with the session service
 
-# Build
+# Setup
 ```shell
+# Run this when interface.go changes. It generawtes client_mock.go
 $ go generate
-$ go build
 ```
