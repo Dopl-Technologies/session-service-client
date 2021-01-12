@@ -6,6 +6,8 @@ github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354/go.mod h1:WmhPx2Nbnht
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dopl-technologies/api-protos-go v1.2.0 h1:5QbNNi51z9NiI0JNrcv+vF05cZrSC5Wf3GUWmk9c0z4=
 github.com/dopl-technologies/api-protos-go v1.2.0/go.mod h1:kWQSnunwKmYTnwSmxBJEf3un/7pzf/XzMaMA2ZEJUjA=
+github.com/dopl-technologies/api-protos-go v1.3.0 h1:ZDlB+RA/49KyY+PK9K1ivin1Jex/uWwrLLSnjd5PEvg=
+github.com/dopl-technologies/api-protos-go v1.3.0/go.mod h1:UqqQpu8Gjqzzhqy7nMhXwlqldjhduQmjYj0pSI9UR7A=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.7/go.mod h1:cwu0lG7PUMfa9snN8LXBig5ynNVH9qI8YYLbd1fK2po=
